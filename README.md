@@ -7,7 +7,7 @@
 I'm an incoming MASc student at the University of Toronto. I will be joining the Electrical and Computer Engineering department and will be working under the supervision of Dr. Frank Kschischang. I recieved my BASc in Mathematics and Engineering (Computing and Communications substream) from Queen's University in 2022.
 
 Feel free to contact me at any of the following emails:
-- jamess.zhu@mail.utoronto.ca
+- jameszhu@ece.utoronto.ca
 - 17jz68@queensu.ca
 - zhuja2000@gmail.com
 
